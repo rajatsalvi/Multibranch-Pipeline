@@ -1,3 +1,4 @@
+#Text is added
 {
   "extends": "tslint:recommended",
   "rulesDirectory": [
